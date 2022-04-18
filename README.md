@@ -8,5 +8,8 @@
 
 <p>To use it you need essencially to have that id's on the inputs of your code & my API source URL like this:</p>
 
-<img src="https://i.ibb.co/y6n2950/IMG-20220417-220051.jpg" alt="IMG-20220417-220051" border="0"><br />
+<img src="https://i.ibb.co/y6n2950/IMG-20220417-220051.jpg" alt="IMG-20220417-220051" border="0"><br /><p></p>
+
+<p>And you can send attachments, only via URL for a short time! Let's see here: </p>
+
 </html>
